@@ -8,8 +8,8 @@ This repository contains code for real-time object detection using the MobileNet
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/eyagammoudi2002/real-time-object-detection.git
-cd real-time-object-detection
+git clone https://github.com/eyagammoudi2002/object_detection.git
+cd object_detection
 ```
 
 2. Install the required packages:
@@ -51,11 +51,5 @@ Install the dependencies using:
 pip install imutils numpy opencv-python argparse
 ```
 
-## Model Files
-
-You need to download the following files and place them in the appropriate directory:
-
-- [MobileNetSSD_deploy.prototxt.txt](https://github.com/chuanqi305/MobileNet-SSD/blob/master/deploy.prototxt)
-- [mobilenet_iter_73000.caffemodel](https://github.com/chuanqi305/MobileNet-SSD/blob/master/mobilenet_iter_73000.caffemodel)
 
 
